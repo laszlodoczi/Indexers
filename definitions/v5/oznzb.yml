@@ -1,0 +1,20 @@
+---
+id: oznzb-yml
+name: OZnzb
+description: "OZnzb is a PRIVATE Newznab Usenet Indexer"
+language: en-US
+type: private
+allowdownloadredirect: true
+implementation: newznab
+encoding: UTF-8
+links:
+- 
+caps:
+  categorymappings: []
+  modes:
+    search: []
+settings:
+- name: apikey
+  type: text
+  label: Site API Key
+# newznab standard
