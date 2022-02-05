@@ -5,7 +5,7 @@ description: Xthor is a general Private torrent site
 language: fr-FR
 type: private
 implementation: xthor
-encoding: iso-8859-1
+encoding: windows-1252
 links:
 - https://api.xthor.tk/
 caps:

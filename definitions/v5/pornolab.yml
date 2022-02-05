@@ -5,7 +5,7 @@ description: PornoLab is a Semi-Private Russian site for Adult content
 language: ru-ru
 type: semiprivate
 implementation: pornolab
-encoding: koi8-r
+encoding: windows-1251
 links:
 - https://pornolab.net/
 caps:
