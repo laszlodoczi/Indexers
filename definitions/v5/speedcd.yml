@@ -1,7 +1,7 @@
 ﻿---
 id: speedcd
 name: SpeedCD
-description: Your home now!
+description: "Your home now!"
 language: en-US
 type: private
 implementation: speedcd

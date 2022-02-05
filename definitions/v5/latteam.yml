@@ -1,7 +1,7 @@
 ﻿---
 id: latteam
 name: LatTeam
-description: Lat-Team is a Private Torrent Tracker for HD MOVIES / TV
+description: "Lat-Team is a Private Torrent Tracker for HD MOVIES / TV"
 language: es
 type: private
 implementation: latteam

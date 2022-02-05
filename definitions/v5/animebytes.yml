@@ -1,7 +1,7 @@
 ﻿---
 id: animebytes
 name: AnimeBytes
-description: AnimeBytes (AB) is the largest private torrent tracker that specialises in anime and anime-related content.
+description: "AnimeBytes (AB) is the largest private torrent tracker that specialises in anime and anime-related content."
 language: en-US
 type: private
 implementation: animebytes

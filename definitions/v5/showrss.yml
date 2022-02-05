@@ -1,7 +1,7 @@
 ﻿---
 id: showrss
 name: ShowRSS
-description: showRSS is a service that allows you to keep track of your favorite TV shows
+description: "showRSS is a service that allows you to keep track of your favorite TV shows"
 language: en-US
 type: public
 implementation: showrss

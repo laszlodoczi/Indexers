@@ -1,7 +1,7 @@
 ﻿---
 id: subsplease
 name: SubsPlease
-description: SubsPlease - A better HorribleSubs/Erai replacement
+description: "SubsPlease - A better HorribleSubs/Erai replacement"
 language: en-US
 type: public
 implementation: subsplease

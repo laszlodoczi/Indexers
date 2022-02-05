@@ -1,7 +1,7 @@
 ﻿---
 id: rarbg
 name: Rarbg
-description: RARBG is a Public torrent site for MOVIES / TV / GENERAL
+description: "RARBG is a Public torrent site for MOVIES / TV / GENERAL"
 language: en-US
 type: public
 implementation: rarbg

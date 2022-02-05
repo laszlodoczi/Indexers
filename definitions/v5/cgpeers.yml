@@ -1,7 +1,7 @@
 ﻿---
 id: cgpeers
 name: CGPeers
-description: CGPeers is a Private Torrent Tracker for GRAPHICS SOFTWARE / TUTORIALS / ETC
+description: "CGPeers is a Private Torrent Tracker for GRAPHICS SOFTWARE / TUTORIALS / ETC"
 language: en-US
 type: private
 implementation: cgpeers

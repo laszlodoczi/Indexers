@@ -1,7 +1,7 @@
 ﻿---
 id: alpharatio
 name: AlphaRatio
-description: AlphaRatio(AR) is a Private Torrent Tracker for 0DAY / GENERAL
+description: "AlphaRatio(AR) is a Private Torrent Tracker for 0DAY / GENERAL"
 language: en-US
 type: private
 implementation: alpharatio

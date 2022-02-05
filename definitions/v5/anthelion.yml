@@ -1,7 +1,7 @@
 ﻿---
 id: anthelion
 name: Anthelion
-description: A movies tracker
+description: "A movies tracker"
 language: en-US
 type: private
 implementation: anthelion

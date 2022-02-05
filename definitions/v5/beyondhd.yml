@@ -1,7 +1,7 @@
 ﻿---
 id: beyondhd
 name: BeyondHD
-description: BeyondHD (BHD) is a Private Torrent Tracker for HD MOVIES / TV
+description: "BeyondHD (BHD) is a Private Torrent Tracker for HD MOVIES / TV"
 language: en-US
 type: private
 implementation: beyondhd

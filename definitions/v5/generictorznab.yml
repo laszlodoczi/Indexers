@@ -1,6 +1,6 @@
 ﻿---
-id: animetosho
-name: AnimeTosho
+id: generictorznab
+name: Generic Torznab
 description: "A Newznab-like api for torrents."
 language: en-US
 type: private

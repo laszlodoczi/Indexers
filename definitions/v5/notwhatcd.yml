@@ -1,7 +1,7 @@
 ﻿---
 id: notwhatcd
 name: NotWhatCD
-description: NotWhat.CD (NWCD) is a private Music tracker that arised after the former (WCD) shut down.
+description: "NotWhat.CD (NWCD) is a private Music tracker that arised after the former (WCD) shut down."
 language: en-US
 type: private
 implementation: notwhatcd

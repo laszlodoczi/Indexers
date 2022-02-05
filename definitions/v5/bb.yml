@@ -1,7 +1,7 @@
 ﻿---
 id: bb
 name: BB
-description: BB is a Private Torrent Tracker for 0DAY / GENERAL
+description: "BB is a Private Torrent Tracker for 0DAY / GENERAL"
 language: en-US
 type: private
 implementation: bb

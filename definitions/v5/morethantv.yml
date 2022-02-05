@@ -1,7 +1,7 @@
 ﻿---
 id: morethantv
 name: MoreThanTV
-description: Private torrent tracker for TV / MOVIES
+description: "Private torrent tracker for TV / MOVIES"
 language: en-US
 type: private
 implementation: morethantv

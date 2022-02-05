@@ -1,7 +1,7 @@
 ﻿---
 id: animedia
 name: Animedia
-description: Animedia is russian anime voiceover group and eponymous anime tracker.
+description: "Animedia is russian anime voiceover group and eponymous anime tracker."
 language: ru-RU
 type: public
 implementation: animedia

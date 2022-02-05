@@ -1,7 +1,7 @@
 ﻿---
 id: gazellegames
 name: GazelleGames
-description: GazelleGames (GGn) is a Private Torrent Tracker for GAMES
+description: "GazelleGames (GGn) is a Private Torrent Tracker for GAMES"
 language: en-US
 type: private
 implementation: gazellegames

@@ -1,7 +1,7 @@
 ﻿---
 id: broadcasthenet
 name: BroadcastheNet
-description: BroadcasTheNet (BTN) is an invite-only torrent tracker focused on TV shows
+description: "BroadcasTheNet (BTN) is an invite-only torrent tracker focused on TV shows"
 language: en-US
 type: private
 implementation: broadcasthenet

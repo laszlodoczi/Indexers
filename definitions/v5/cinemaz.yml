@@ -1,7 +1,7 @@
 ﻿---
 id: cinemaz
 name: CinemaZ
-description: CinemaZ (EuTorrents) is a Private Torrent Tracker for FOREIGN NON-ASIAN MOVIES.
+description: "CinemaZ (EuTorrents) is a Private Torrent Tracker for FOREIGN NON-ASIAN MOVIES."
 language: en-US
 type: private
 implementation: cinemaz

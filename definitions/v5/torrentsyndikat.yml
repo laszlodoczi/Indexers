@@ -1,7 +1,7 @@
 ﻿---
 id: torrentsyndikat
 name: TorrentSyndikat
-description: A German general tracker
+description: "A German general tracker"
 language: de-DE
 type: private
 implementation: torrentsyndikat

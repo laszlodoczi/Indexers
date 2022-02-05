@@ -1,7 +1,7 @@
 ﻿---
 id: headphones
 name: Headphones
-description: A Private Usenet indexer for music
+description: "A Private Usenet indexer for music"
 language: en-US
 type: private
 implementation: headphones

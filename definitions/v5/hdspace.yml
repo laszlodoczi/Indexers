@@ -1,7 +1,7 @@
 ﻿---
 id: hdspace
 name: HDSpace
-description: HD-Space (HDS) is a Private Torrent Tracker for HD MOVIES / TV
+description: "HD-Space (HDS) is a Private Torrent Tracker for HD MOVIES / TV"
 language: en-US
 type: private
 implementation: hdspace

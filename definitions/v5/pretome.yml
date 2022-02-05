@@ -1,7 +1,7 @@
 ﻿---
 id: pretome
 name: PreToMe
-description: PreToMe is a ratioless 0Day/General tracker.
+description: "PreToMe is a ratioless 0Day/General tracker."
 language: en-US
 type: private
 implementation: pretome

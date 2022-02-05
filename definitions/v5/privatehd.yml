@@ -1,7 +1,7 @@
 ﻿---
 id: privatehd
 name: PrivateHD
-description: PrivateHD is a Private Torrent Tracker for HD MOVIES / TV and the sister-site of AvistaZ, CinemaZ, ExoticaZ, and AnimeTorrents
+description: "PrivateHD is a Private Torrent Tracker for HD MOVIES / TV and the sister-site of AvistaZ, CinemaZ, ExoticaZ, and AnimeTorrents"
 language: en-US
 type: private
 implementation: privatehd

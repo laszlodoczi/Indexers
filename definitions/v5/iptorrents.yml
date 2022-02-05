@@ -1,7 +1,7 @@
 ﻿---
 id: iptorrents
 name: IPTorrents
-description: IPTorrents (IPT) is a Private Torrent Tracker for 0DAY / GENERAL.
+description: "IPTorrents (IPT) is a Private Torrent Tracker for 0DAY / GENERAL."
 language: en-US
 type: private
 implementation: iptorrents

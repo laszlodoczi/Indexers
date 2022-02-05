@@ -1,7 +1,7 @@
 ﻿---
 id: filelist
 name: FileList
-description: FileList (FL) is a ROMANIAN Private Torrent Tracker for 0DAY / GENERAL
+description: "FileList (FL) is a ROMANIAN Private Torrent Tracker for 0DAY / GENERAL"
 language: en-US
 type: private
 implementation: filelist

@@ -1,7 +1,7 @@
 ﻿---
 id: torrentpotato
 name: TorrentPotato
-description: A JSON based torrent provider previously developed for CouchPotato
+description: "A JSON based torrent provider previously developed for CouchPotato"
 language: en-US
 type: private
 implementation: torrentpotato

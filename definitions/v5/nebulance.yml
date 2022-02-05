@@ -1,7 +1,7 @@
 ﻿---
 id: nebulance
 name: Nebulance
-description: Nebulance (NBL) is a ratioless Private Torrent Tracker for TV
+description: "Nebulance (NBL) is a ratioless Private Torrent Tracker for TV"
 language: en-US
 type: private
 implementation: nebulance

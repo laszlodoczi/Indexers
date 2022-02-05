@@ -1,7 +1,7 @@
 ﻿---
 id: passthepopcorn
 name: PassThePopcorn
-description: PassThePopcorn (PTP) is a Private site for MOVIES / TV
+description: "PassThePopcorn (PTP) is a Private site for MOVIES / TV"
 language: en-US
 type: private
 implementation: passthepopcorn

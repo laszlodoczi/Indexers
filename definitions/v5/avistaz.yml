@@ -1,7 +1,7 @@
 ﻿---
 id: avistaz
 name: AvistaZ
-description: Aka AsiaTorrents
+description: "Aka AsiaTorrents"
 language: en-US
 type: private
 implementation: avistaz

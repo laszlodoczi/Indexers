@@ -1,7 +1,7 @@
 ﻿---
 id: norbits
 name: NorBits
-description: NorBits is a Norwegian Private site for MOVIES / TV / GENERAL
+description: "NorBits is a Norwegian Private site for MOVIES / TV / GENERAL"
 language: nb-NO
 type: private
 implementation: norbits

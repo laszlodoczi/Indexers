@@ -1,7 +1,7 @@
 ﻿---
 id: myanonamouse
 name: MyAnonamouse
-description: MyAnonaMouse (MAM) is a large ebook and audiobook tracker.
+description: "MyAnonaMouse (MAM) is a large ebook and audiobook tracker."
 language: en-US
 type: private
 implementation: myanonamouse

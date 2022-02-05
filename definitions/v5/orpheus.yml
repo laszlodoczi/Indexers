@@ -1,7 +1,7 @@
 ﻿---
 id: orpheus
 name: Orpheus
-description: Orpheus (APOLLO) is a Private Torrent Tracker for MUSIC
+description: "Orpheus (APOLLO) is a Private Torrent Tracker for MUSIC"
 language: en-US
 type: private
 implementation: orpheus

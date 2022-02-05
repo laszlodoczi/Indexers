@@ -1,7 +1,7 @@
 ﻿---
 id: rutracker
 name: RuTracker
-description: RuTracker is a Semi-Private Russian torrent site with a thriving file-sharing community
+description: "RuTracker is a Semi-Private Russian torrent site with a thriving file-sharing community"
 language: ru-org
 type: semiprivate
 implementation: rutracker

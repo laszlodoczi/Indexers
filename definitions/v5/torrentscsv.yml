@@ -1,7 +1,7 @@
 ﻿---
 id: torrentscsv
 name: TorrentsCSV
-description: Torrents.csv is a self-hostable open source torrent search engine and database
+description: "Torrents.csv is a self-hostable open source torrent search engine and database"
 language: en-US
 type: public
 implementation: torrentscsv

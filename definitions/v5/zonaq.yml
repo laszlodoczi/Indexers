@@ -1,7 +1,7 @@
 ﻿---
 id: zonaq
 name: ZonaQ
-description: ZonaQ is a SPANISH Private Torrent Tracker for MOVIES / TV
+description: "ZonaQ is a SPANISH Private Torrent Tracker for MOVIES / TV"
 language: es-ES
 type: private
 implementation: zonaq

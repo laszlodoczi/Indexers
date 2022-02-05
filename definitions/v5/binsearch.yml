@@ -1,7 +1,7 @@
 ﻿---
 id: binsearch
 name: BinSearch
-description: The binary Usenet search engine
+description: "The binary Usenet search engine"
 language: en-US
 type: public
 implementation: binsearch

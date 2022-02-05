@@ -1,7 +1,7 @@
 ﻿---
 id: danishbytes
 name: DanishBytes
-description: DanishBytes is a Private Danish Tracker
+description: "DanishBytes is a Private Danish Tracker"
 language: en-US
 type: private
 implementation: danishbytes

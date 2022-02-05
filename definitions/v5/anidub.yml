@@ -1,7 +1,7 @@
 ﻿---
 id: anidub
 name: Anidub
-description: Anidub is russian anime voiceover group and eponymous anime tracker.
+description: "Anidub is russian anime voiceover group and eponymous anime tracker."
 language: ru-RU
 type: semiprivate
 implementation: anidub

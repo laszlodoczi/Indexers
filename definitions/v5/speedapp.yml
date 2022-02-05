@@ -1,7 +1,7 @@
 ﻿---
 id: speedapp
 name: SpeedApp
-description: SpeedApp is a ROMANIAN Private Torrent Tracker for MOVIES / TV / GENERAL
+description: "SpeedApp is a ROMANIAN Private Torrent Tracker for MOVIES / TV / GENERAL"
 language: ro-RO
 type: private
 implementation: speedapp

@@ -1,7 +1,7 @@
 ﻿---
 id: scenetime
 name: SceneTime
-description: Always on time
+description: "Always on time"
 language: en-US
 type: private
 implementation: scenetime

@@ -1,7 +1,7 @@
 ﻿---
 id: xthor
 name: Xthor
-description: Xthor is a general Private torrent site
+description: "Xthor is a general Private torrent site"
 language: fr-FR
 type: private
 implementation: xthor

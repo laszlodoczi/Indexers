@@ -1,7 +1,7 @@
 ﻿---
 id: torrentday
 name: TorrentDay
-description: TorrentDay (TD) is a Private site for TV / MOVIES / GENERAL
+description: "TorrentDay (TD) is a Private site for TV / MOVIES / GENERAL"
 language: en-US
 type: private
 implementation: torrentday

@@ -1,7 +1,7 @@
 ﻿---
 id: animetorrents
 name: AnimeTorrents
-description: Definitive source for anime and manga
+description: "Definitive source for anime and manga"
 language: en-US
 type: private
 implementation: animetorrents
