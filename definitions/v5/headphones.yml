@@ -15,4 +15,4 @@ caps:
   - { id: 3040, cat: Audio/Lossless, desc: "" }
   modes:
     search: [q]
-    audio-search: [q]
+    music-search: [q]

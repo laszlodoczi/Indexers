@@ -24,4 +24,4 @@ caps:
     tv-search: [q,season,ep]
     movie-search: [q]
     book-search: [q]
-    audio-search: [q]
+    music-search: [q]

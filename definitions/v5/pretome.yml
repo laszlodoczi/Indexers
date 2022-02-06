@@ -66,4 +66,4 @@ caps:
     tv-search: [q,season,ep,imdbId]
     movie-search: [q,imdbId]
     book-search: [q]
-    audio-search: [q]
+    music-search: [q]

@@ -40,4 +40,4 @@ caps:
     search: [q]
     tv-search: [q,season,ep,imdbId]
     movie-search: [q,imdbId]
-    audio-search: [q]
+    music-search: [q]

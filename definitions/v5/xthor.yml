@@ -74,4 +74,4 @@ caps:
     tv-search: [q,season,ep]
     movie-search: [q,tmdbId]
     book-search: [q]
-    audio-search: [q]
+    music-search: [q]

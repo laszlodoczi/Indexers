@@ -21,4 +21,4 @@ caps:
     search: [q]
     tv-search: [q,season,ep,imdbId,tvdbId]
     movie-search: [q,imdbId,tmdbId]
-    audio-search: [q]
+    music-search: [q]

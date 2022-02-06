@@ -52,4 +52,4 @@ caps:
     tv-search: [q,season,ep]
     movie-search: [q,imdbId]
     book-search: [q]
-    audio-search: [q]
+    music-search: [q]
